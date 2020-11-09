@@ -2,7 +2,7 @@
 @name             DH3 Compact
 @description      The compact look for DH3
 @namespace        https://github.com/lbrustad
-@version          1.1.0
+@version          1.1.1
 @author           Lasse Brustad
 ==/UserStyle== */
 
@@ -105,10 +105,22 @@
     height: 1.2rem;
   }
 
+  /* tiny modification to the navbar */
+  .navigate-button {
+    display: grid !important;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto;
+    justify-items: center;
+  }
+
+  .navigate-button br {
+    display: none;
+  }
+
   /* less empty space caused by br tags... stop using it Smitty... */
   #game > br,
   div.right-panel > div > br {
-      display: none;
+    display: none;
   }
 
   table.table-top-main-items {
