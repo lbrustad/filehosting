@@ -12,6 +12,10 @@ Additionally, `Install this script` is possible, but it's untested, so it might 
 
 ## Updatelog
 
+#### v1.1.1 - Navigation bar changes
+
++ Modified the navbar to finally center the images! Should've done this earlier ... sorry!
+
 #### v1.1.0 - Level Styles
 
 + Redesigned the look of the levels, now it actually looks good!
