@@ -8,7 +8,7 @@ If you're using [Stylish](https://chrome.google.com/webstore/detail/stylish-cust
 
 When e.g. Stylus is installed, you'll be able to click the `Install as user style` button above, then Stylus will ask you to install it, and you should be able to use the style instantly, even if the game is running in another tab, so you don't have to reload the game!
 
-Additionally, `Install as script` is possible, but it's untested, so it might or might not work in a different way than installing with Stylus, but it does at least work with Tampermonkey if you don't want Stylus or any similar working extensions.
+Additionally, `Install this script` is possible, but it's untested, so it might or might not work in a different way than installing with Stylus, but it does at least work with Tampermonkey if you don't want Stylus or any similar working extensions.
 
 ## Updatelog
 
