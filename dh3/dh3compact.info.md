@@ -15,6 +15,7 @@ Additionally, `Install this script` is possible, but it's untested, so it might 
 #### v1.1.1 - Navigation bar changes
 
 + Modified the navbar to finally center the images! Should've done this earlier ... sorry!
++ Fixed the top header line to be displayed over levels, I'm sorry about this as well!
 
 #### v1.1.0 - Level Styles
 
