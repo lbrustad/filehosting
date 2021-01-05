@@ -23,6 +23,9 @@
   .center {
     font-size: 0;
   }
+  td.center {
+    font-size: inherit;
+  }
 
   /* makes levels a bit nicer! */
   td>div#top-bar-skills.not-table-top-main-skills {
