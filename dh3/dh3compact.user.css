@@ -23,6 +23,7 @@
   .center {
     font-size: 0;
   }
+
   td.center {
     font-size: inherit;
   }
